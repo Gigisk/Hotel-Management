@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project implements a back-end solution for managing a hotel’s rooms and customer data. It provides a terminal interface where users can interact with the system, store information on rooms, customers, and even update or delete records as needed.
+This is my first project that was created in 2021 during my junior year of high school for a C++ course. It implements a back-end solution for managing a hotel’s rooms and customer data. It provides a terminal interface where users can interact with the system, store information on rooms and customers, and even update or delete records as needed.
 
 ## Features
 
