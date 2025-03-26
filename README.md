@@ -24,3 +24,18 @@ Upon running the program, the user is prompted to input details for both rooms a
 - Edit existing room or customer details
 - Delete rooms or customers from the system
 - View the current status of rooms and customers
+
+## How to Run the Program
+
+To run the program, follow these steps:
+
+1. **Open VS Code** and launch the terminal.
+
+2. **Compile the code** using `make`:
+   ```bash
+   make clean
+   make
+
+3. **Run the compiled program** using `./app`:
+   ```bash
+   ./app
